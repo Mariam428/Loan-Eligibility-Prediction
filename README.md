@@ -6,7 +6,4 @@ Loan eligibility prediction project using python. It includes implementation of 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py" />
   </a>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai" />
-  </a>
 </p>
